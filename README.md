@@ -1,5 +1,3 @@
-<?php
+# vezba1
 
-echo "# vezba1" >> README.md
-
-?>
+Prvi comit
